@@ -1,0 +1,18 @@
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Salarium.exe.config
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Salarium.exe
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Salarium.pdb
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Salarium.xml
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\ESAR Controls.dll
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\NetSpell.SpellChecker.dll
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.vbprojResolveAssemblyReference.cache
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.frmMainForm.resources
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.Resources.resources
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.vbproj.GenerateResource.Cache
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.exe
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.xml
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.pdb
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JOB\ESAR Infotech\Salarium\Salarium\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.frmMainTask.resources
+G:\JOB\ESAR Infotech\Salarium\Salarium\obj\Debug\Salarium.frmChangeSystemDate.resources

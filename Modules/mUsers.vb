@@ -1,0 +1,37 @@
+﻿Module mUsers
+    Public USuserrole As String
+    Public USuserid As String
+    Public USuserpasswd As String
+    Public USuserno As String
+    Public USuseraccess As String
+    Public UScustomer As String
+    Public USpricelevel As String
+    Public USquote As String
+    Public USsalesorder As String
+    Public USsalesinvoice As String
+    Public USflyinginvoice As String
+    Public USservicereturn As String
+    Public UScustomercredit As String
+    Public USvendor As String
+    Public USpurchase As String
+    Public USautopurchase As String
+    Public USvendorcredit As String
+    Public USsalestax As String
+    Public USinventory As String
+    Public USitemtype As String
+    Public USitempricelevel As String
+    Public USaccounts As String
+    Public USreceipt As String
+    Public USpayment As String
+    Public USbankdeposit As String
+    Public USchecks As String
+    Public UStransactions As String
+    Public USdefaults As String
+    Public USbeginingbalance As String
+    Public USstatus As String
+    Public USreports As String
+    Public USbackups As String
+    Public USimportexport As String
+    Public USusersecurity As String
+    Public USyearend As String
+End Module
